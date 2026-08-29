@@ -1,0 +1,1 @@
+Production-oriented personal career platform built with Next.js, TypeScript, Tailwind CSS, Supabase, Resend, global search, private CMS foundations, and contact workflows.
